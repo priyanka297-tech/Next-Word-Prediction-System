@@ -1,0 +1,8 @@
+tensorflow
+keras
+streamlit
+pickle-mixin
+tensorflow-cpu
+h5py
+tensorflow
+keras
